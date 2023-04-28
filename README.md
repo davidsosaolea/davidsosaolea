@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/122306050/235029993-935388df-5fcb-44dc-91ae-06c6f3698109.svg">
+  <img src="https://user-images.githubusercontent.com/122306050/235030224-dd2c7182-efd7-42a4-b8e9-4b4d1cc71d3f.svg">
 </p>
 
-
-![logo1_adobe_express](https://user-images.githubusercontent.com/122306050/235029993-935388df-5fcb-44dc-91ae-06c6f3698109.svg)
-
+![logo2 1](https://user-images.githubusercontent.com/122306050/235030224-dd2c7182-efd7-42a4-b8e9-4b4d1cc71d3f.svg)
 
 
 <h1 align="center">Hi 👋, I'm David Eduardo Sosa Olea</h1>
