@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/122306050/235029353-691c2e75-462b-4d24-9483-c3d077eb68e0.svg" style="fill: red;">
 </p>
-
 <h1 align="center">Hi 👋, I'm David Eduardo Sosa Olea</h1>
 <h3 align="center">A passionate data scientist with expertise in data analysis and visualization.</h3>
 
