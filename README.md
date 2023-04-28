@@ -1,6 +1,6 @@
 
+![logo2 1](https://user-images.githubusercontent.com/122306050/235029353-691c2e75-462b-4d24-9483-c3d077eb68e0.svg)
 
-![logo2](https://user-images.githubusercontent.com/122306050/235029268-2b55489c-a03c-4e86-bff2-3e48094add20.jpg)
 
 
 <h1 align="center">Hi 👋, I'm David Eduardo Sosa Olea</h1>
