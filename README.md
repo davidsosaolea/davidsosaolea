@@ -1,3 +1,8 @@
+
+
+![logo2](https://user-images.githubusercontent.com/122306050/235029268-2b55489c-a03c-4e86-bff2-3e48094add20.jpg)
+
+
 <h1 align="center">Hi 👋, I'm David Eduardo Sosa Olea</h1>
 <h3 align="center">A passionate data scientist with expertise in data analysis and visualization.</h3>
 
