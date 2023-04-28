@@ -1,5 +1,6 @@
-
-![logo2 1](https://user-images.githubusercontent.com/122306050/235029353-691c2e75-462b-4d24-9483-c3d077eb68e0.svg)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/122306050/235029353-691c2e75-462b-4d24-9483-c3d077eb68e0.svg" alt="logo">
+</p>
 
 
 
